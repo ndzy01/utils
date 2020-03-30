@@ -1,0 +1,13 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "watch": "tsc -w -p ."
+  },
+  "devDependencies": {
+    "@types/node": "^13.9.5",
+    "typescript": "^3.8.3"
+  }
+}
